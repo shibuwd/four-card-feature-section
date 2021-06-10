@@ -97,7 +97,6 @@ body {
     height: .25rem;
     width: 100%;
 }
-
 .card-1::before{
     background-color: var(--cyan); 
     border-radius: .5rem .5rem 0 0 ; 
@@ -156,11 +155,3 @@ body {
    font-size: 2.3rem;
    }
 }
-
-/* @media only screen and (min-width: 1130px) {
-    card-container .wrapper {
-        max-width: 340px;
-        margin-bottom: 0;
-        overflow-y: hidden;
-    }
-} */
